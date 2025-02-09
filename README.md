@@ -13,6 +13,6 @@ A comprehensive Power BI dashboard visualizing performance metrics of UK Railway
 
 Here is a preview of the dashboard created in this project:
 
-![UK railway.pdf](https://github.com/user-attachments/files/18726059/UK.railway.pdf)
+! [image alt](https://github.com/Devarbat/UK-Railway-Revenue-Analysis-using-Power-BI/blob/main/UK%20railway.pdf)
 
 This dashboard provides insights into the revenue trends, highlighting key metrics and their performance over time.
